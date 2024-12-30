@@ -1,10 +1,4 @@
-<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
-
-# Project Summary
-
-In this project we will be practicing inserting and querying data using SQL. We'll make use of a handy online tool provided by DevMountain that will allow us to write SQL in your browser. [Click Me](https://postgres.devmountain.com/)
-
-On the left are the Tables with their fields, the right is where we will be writing our queries, and the bottom is where we will see our results.  
+ 
 
 Any new tables or records that we add into the database will be removed after you refresh the page.
 
@@ -508,15 +502,4 @@ SELECT SUM(total) FROM invoice;
 
 </details>
 
-## Contributions
-
-If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
-
-## Copyright
-
-© DevMountain LLC, 2017. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
-
-<p align="center">
-<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250">
-</p>
 
