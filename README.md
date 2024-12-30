@@ -8,7 +8,7 @@ Any new tables or records that we add into the database will be removed after yo
 1. Create a table called person that records a person's id, name, age, height ( in cm ), city, favorite_color. 
     * id should be an auto-incrementing id/primary key - Use type: SERIAL
 2. Add 5 different people into the person database. 
-    * Remember to not include the person_id because it should auto-increment.
+   
 3. List all the people in the person table by height from tallest to shortest.
 4. List all the people in the person table by height from shortest to tallest.
 5. List all the people in the person table by age from oldest to youngest.
@@ -43,7 +43,7 @@ CREATE TABLE person ( person_id SERIAL PRIMARY KEY, name VARCHAR(200), age INTEG
 <summary> <code> #2 </code> </summary>
 
 ```sql
-INSERT INTO person ( name, age, height, city, favorite_color ) VALUES ( 'First Last', 21, 182, 'City', 'Color' );
+INSERT INTO person ( name, age, height, city, favorite_color ) VALUES ( 'Ankita Yadav', 20, 172, 'Mumbai', 'Lavender' );
 ```
 
 </details>
