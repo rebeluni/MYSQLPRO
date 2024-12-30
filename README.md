@@ -44,6 +44,8 @@ CREATE TABLE person ( person_id SERIAL PRIMARY KEY, name VARCHAR(200), age INTEG
 
 ```sql
 INSERT INTO person ( name, age, height, city, favorite_color ) VALUES ( 'Ankita Yadav', 20, 172, 'Mumbai', 'Lavender' );
+INSERT INTO person ( name, age, height, city, favorite_color ) VALUES ( 'Olivia Rodrio', 22, 176, 'Nashville', 'Red' );
+
 ```
 
 </details>
